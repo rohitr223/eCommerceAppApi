@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Tshirt with sleeve",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6x5VFxa3-BxZrx-adNT1QnDlDlaco1slK4A&usqp=CAU",
+        "price": "₹550/5pcs",
+        "rating": 4,
+        "reviews": "134030"
+    },
+    {
+        "id": 2,
+        "name": "Tshirt without sleeve",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6x5VFxa3-BxZrx-adNT1QnDlDlaco1slK4A&usqp=CAU",
+        "price": "₹350/5pcs",
+        "rating": 3,
+        "reviews": "94030"
+    },
+    {
+        "id": 3,
+        "name": "Track Pants",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMpQg0HR16RABRUAnc_D7qFs-71WYWt7Rzg&usqp=CAU",
+        "price": "₹2150/5pcs",
+        "rating": 5,
+        "reviews": "234030"
+    },
+    {
+        "id": 4,
+        "name": "Cotton Yoga Dress",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Wm05bo-51b2us4l9JJ8-_R5Tz36xZVeiiw&usqp=CAU",
+        "price": "₹1500/2pcs",
+        "rating": 5,
+        "reviews": "4010"
+    },
+    {
+        "id": 5,
+        "name": "Pure Cotton Vest",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJZJx28CItOrLlXRAVqnrJRDcrdJqYjz4zuzhQ9zPouUaU7tbKR_tnRKHWmiCMr0FGdDI&usqp=CAU",
+        "price": "₹1250/5pcs",
+        "rating": 4,
+        "reviews": "94000"
+    },
+    {
+        "id": 6,
+        "name": "Cotton Towels",
+        "image": "https://images.unsplash.com/photo-1574421233376-06f2ccf017f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dG93ZWxzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "price": "₹550/4pcs",
+        "rating": 4,
+        "reviews": "134030"
+    },
+    {
+        "id": 7,
+        "name": "Ball Cap",
+        "image": "https://images.unsplash.com/photo-1597153471193-d3d20aed44e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTJ8fGJhbGwlMjBjYXB8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "price": "₹200/1pcs",
+        "rating": 4,
+        "reviews": "12030"
+    },
+    {
+        "id": 8,
+        "name": "L/XL/XXL Shirt",
+        "image": "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hpcnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "price": "₹350",
+        "rating": 5,
+        "reviews": "1340"
+    },
+    {
+        "id": 9,
+        "name": "Track Suit",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfTDhEusch5jsqRnizqg9Kd1YceNGD4g3Hng&usqp=CAU",
+        "price": "₹2449/1pc",
+        "rating": 5,
+        "reviews": "11020"
+    },
+    {
+        "id": 10,
+        "name": "Sport Socks",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAnk3tOdk-z-m0xJg4gHlcZQLoaWOQIlTweQ&usqp=CAU",
+        "price": "₹100/pair",
+        "rating": 3,
+        "reviews": "1235"
+    }
+]
