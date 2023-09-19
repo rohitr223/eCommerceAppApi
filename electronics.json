@@ -8,7 +8,8 @@
       "rating": 4,
       "reviews": "134030",
       "description": "20W hair trimmer for body and facial hairs. This hair trimmer contains self sharpening blades. No fear of rashes and skin cuts. 20W charger provided for charging.",
-      "color": "#CEDEBD"
+      "color": "#CEDEBD",
+      "qty": 0
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "rating": 3,
       "reviews": "94030",
       "description": "Automatic steam machine for taking steam theraphy for face. Steam enhances skin glow and reduces the dead skin, it also reduces dark eye circles.",
-      "color": "#FFE5E5"
+      "color": "#FFE5E5",
+      "qty": 0
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "rating": 5,
       "reviews": "234030",
       "description": "Dry iron for ironing silk, cotton, terrycot, synthetic cotton clothes. Comes with adjustable temperature range. Doesnot contain water spray.",
-      "color": "#EEE0C9"
+      "color": "#EEE0C9",
+      "qty": 0
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "rating": 5,
       "reviews": "4010",
       "description": "PELL 256GB Laptop with 16GB RAM. Ideal for gaming/coding/development/editing etc. High performance intel i9 chip as well as graphic card.",
-      "color": "#D5FFD0"
+      "color": "#D5FFD0",
+      "qty": 0
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "rating": 4,
       "reviews": "94000",
       "description": "Bluetooth wireless keyboard with bluetooth 2.0 connectivity. Suitable for all the platforms like windows, mac and linux. Upto 1 month battery life.",
-      "color": "#FFDBAA"
+      "color": "#FFDBAA",
+      "qty": 0
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "rating": 4,
       "reviews": "134030",
       "description": "Bluetooth wireless soundbar with bluetooth 2.0 connectivity. Suitable for all the platforms like windows, mac and linux. Upto 1 month battery life.",
-      "color": "#AED8CC"
+      "color": "#AED8CC",
+      "qty": 0
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "rating": 2,
       "reviews": "12030",
       "description": "Bluetooth wireless headphones with bluetooth 2.0 connectivity. Suitable for all the platforms like windows, mac and linux. Upto 1 month battery life.",
-      "color": "#FFD9C0"
+      "color": "#FFD9C0",
+      "qty": 0
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "rating": 5,
       "reviews": "1340",
       "description": "Washing machine with 100 Liters capacity. Suitable for all chlothes light/heavy. Made with stainless steel and high grade plastic.",
-      "color": "#E1ECC8"
+      "color": "#E1ECC8",
+      "qty": 0
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "rating": 5,
       "reviews": "11020",
       "description": "Smart fitness watch with pulse, pressure index, spO2 detection. Fitness watch with ip68 water protection. Watch has aluminium metal frames.",
-      "color": "#F4D3D3"
+      "color": "#F4D3D3",
+      "qty": 0
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "rating": 4,
       "reviews": "1235",
       "description": "Eannon 108 MP Camera for professional video recording as well as production. 60W charging and suitable for indoor as well as outdoor video recording.",
-      "color": "#F9E0BB"
+      "color": "#F9E0BB",
+      "qty": 0
     }
   ]
 }

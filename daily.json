@@ -8,7 +8,8 @@
       "rating": 4,
       "reviews": "134030",
       "description": "Shaving cream for smooth skin to avoid rashes and cuts. For all skin types like dry, oily, sensitive skins. Contains aloevera to reduce skin irritation.",
-      "color": "#CEDEBD"
+      "color": "#CEDEBD",
+      "qty": 0
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "rating": 3,
       "reviews": "94030",
       "description": "Keep your skin like a baby by using our moisturizer. Contains natural milk and aloevera as well as almond oil to keep your skin moisturized for 24 hours.",
-      "color": "#FFBA86"
+      "color": "#FFBA86",
+      "qty": 0
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "rating": 5,
       "reviews": "234030",
       "description": "Keep your skin like a baby by using our cold cream. Contains natural milk and aloevera as well as almond oil to keep your skin moisturized for 24 hours.",
-      "color": "#F1F0E8"
+      "color": "#F1F0E8",
+      "qty": 0
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "rating": 5,
       "reviews": "4010",
       "description": "Get rid from nasty dandruff. Use our products to make your hair silky as well as remove dandruff from your scalp. Contains natural milk and aloevera as well as almond oil to remove dandruff.",
-      "color": "#FFEECC"
+      "color": "#FFEECC",
+      "qty": 0
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "rating": 4,
       "reviews": "94000",
       "description": "Unisex razor with blunt blade for both men and women for smooth shaving. This razor can be used on both dry as well as sensitive skin type.",
-      "color": "#CEE6F3"
+      "color": "#CEE6F3",
+      "qty": 0
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "rating": 4,
       "reviews": "134030",
       "description": "High quality cotton towels for both the genders. Towels are made with 100% pure cotton. Suitable for all the skin types. Thin cotton towels that can be easily dried.",
-      "color": "#CEDEBD"
+      "color": "#CEDEBD",
+      "qty": 0
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "rating": 2,
       "reviews": "12030",
       "description": "Get rid from oily skin. Use our products to make your face shine as well as remove dark circles from your face. Contains natural milk and aloevera as well as almond oil to remove skin blemishes.",
-      "color": "#DBC4F0"
+      "color": "#DBC4F0",
+      "qty": 0
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "rating": 5,
       "reviews": "1340",
       "description": "Herbal Toothpaste for avoiding tooth decay and keep your teeth shining white. Contains calcium and magnesium. Contain natural herbs such as mint and clove oil.",
-      "color": "#A7EDE7"
+      "color": "#A7EDE7",
+      "qty": 0
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "rating": 5,
       "reviews": "11020",
       "description": "Vaseling lip balm to protect your lips from drying. This protects your lips from getting dark. Suitable for all age groups as well as all genders.",
-      "color": "#CEDEBD"
+      "color": "#CEDEBD",
+      "qty": 0
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "rating": 3,
       "reviews": "1235",
       "description": "Muscle relaxant cream as well as spray to get rid of muscle strain and muscle pain. Contains camphor and mint leaves for deep relaxation.",
-      "color": "#FFE5E5"
+      "color": "#FFE5E5",
+      "qty": 0
     }
   ]
 }

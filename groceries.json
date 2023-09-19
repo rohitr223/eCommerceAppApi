@@ -8,7 +8,8 @@
       "rating": 4,
       "reviews": "41563",
       "description": "Get 20% OFF on ordering any of the grocery products. 100% pure and safe to consume grocery products. 100% original with fssai mark. Get 20% OFF on ordering any grocery products.",
-      "color": "#CEDEBD"
+      "color": "#CEDEBD",
+      "qty": 0
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "rating": 3,
       "reviews": "94030",
       "description": "Get 20% OFF on ordering any of the grocery products. 100% pure and safe to consume grocery products. 100% original with fssai mark. Get 20% OFF on ordering any grocery products.",
-      "color": "#FFE5E5"
+      "color": "#FFE5E5",
+      "qty": 0
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "rating": 5,
       "reviews": "234030",
       "description": "Get 20% OFF on ordering any of the grocery products. 100% pure and safe to consume grocery products. 100% original with fssai mark. Get 20% OFF on ordering any grocery products.",
-      "color": "#D5FFD0"
+      "color": "#D5FFD0",
+      "qty": 0
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "rating": 5,
       "reviews": "4010",
       "description": "Get 20% OFF on ordering any of the grocery products. 100% pure and safe to consume grocery products. 100% original with fssai mark. Get 20% OFF on ordering any grocery products.",
-      "color": "#FAF0E6"
+      "color": "#FAF0E6",
+      "qty": 0
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "rating": 4,
       "reviews": "94000",
       "description": "Get 20% OFF on ordering any of the grocery products. 100% pure and safe to consume grocery products. 100% original with fssai mark. Get 20% OFF on ordering any grocery products.",
-      "color": "#DFCCFB"
+      "color": "#DFCCFB",
+      "qty": 0
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "rating": 4,
       "reviews": "134030",
       "description": "Get 20% OFF on ordering any of the grocery products. 100% pure and safe to consume grocery products. 100% original with fssai mark. Get 20% OFF on ordering any grocery products.",
-      "color": "#AED8CC"
+      "color": "#AED8CC",
+      "qty": 0
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "rating": 2,
       "reviews": "12030",
       "description": "Get 20% OFF on ordering any of the grocery products. 100% pure and safe to consume grocery products. 100% original with fssai mark. Get 20% OFF on ordering any grocery products.",
-      "color": "#E9FFC2"
+      "color": "#E9FFC2",
+      "qty": 0
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "rating": 5,
       "reviews": "1340",
       "description": "Get 20% OFF on ordering any of the grocery products. 100% pure and safe to consume grocery products. 100% original with fssai mark. Get 20% OFF on ordering any grocery products.",
-      "color": "#E1ECC8"
+      "color": "#E1ECC8",
+      "qty": 0
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "rating": 5,
       "reviews": "11020",
       "description": "Get 20% OFF on ordering any of the grocery products. 100% pure and safe to consume grocery products. 100% original with fssai mark. Get 20% OFF on ordering any grocery products.",
-      "color": "#FFECEC"
+      "color": "#FFECEC",
+      "qty": 0
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "rating": 3,
       "reviews": "1235",
       "description": "Get 20% OFF on ordering any of the grocery products. 100% pure and safe to consume grocery products. 100% original with fssai mark. Get 20% OFF on ordering any grocery products.",
-      "color": "#DBDFEA"
+      "color": "#DBDFEA",
+      "qty": 0
     }
   ]
 }

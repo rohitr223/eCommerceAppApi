@@ -8,7 +8,8 @@
       "rating": 4,
       "reviews": "134030",
       "description": "100% pure drink made with 0% preservatives. Please give a try to enhance your health. With 6 months of expiry date. 100% pure drink with 0% additives.",
-      "color": "#F1D4E5"
+      "color": "#F1D4E5",
+      "qty": 0
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "rating": 3,
       "reviews": "94030",
       "description": "100% pure drink made with 0% preservatives. Please give a try to enhance your health. With 6 months of expiry date. 100% pure drink with 0% additives.",
-      "color": "#FFF5B8"
+      "color": "#FFF5B8",
+      "qty": 0
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "rating": 5,
       "reviews": "234030",
       "description": "100% pure drink made with 0% preservatives. Please give a try to enhance your health. With 6 months of expiry date. 100% pure drink with 0% additives.",
-      "color": "#E3F4F4"
+      "color": "#E3F4F4",
+      "qty": 0
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "rating": 5,
       "reviews": "4010",
       "description": "100% pure drink made with 0% preservatives. Please give a try to enhance your health. With 6 months of expiry date. 100% pure drink with 0% additives.",
-      "color": "#F0EDD4"
+      "color": "#F0EDD4",
+      "qty": 0
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "rating": 4,
       "reviews": "94000",
       "description": "100% pure drink made with 0% preservatives. Please give a try to enhance your health. With 6 months of expiry date. 100% pure drink with 0% additives.",
-      "color": "#B9EDDD"
+      "color": "#B9EDDD",
+      "qty": 0
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "rating": 4,
       "reviews": "134030",
       "description": "100% pure drink made with 0% preservatives. Please give a try to enhance your health. With 6 months of expiry date. 100% pure drink with 0% additives.",
-      "color": "#FFE5E5"
+      "color": "#FFE5E5",
+      "qty": 0
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "rating": 2,
       "reviews": "12030",
       "description": "100% pure drink made with 0% preservatives. Please give a try to enhance your health. With 6 months of expiry date. 100% pure drink with 0% additives.",
-      "color": "#DBC4F0"
+      "color": "#DBC4F0",
+      "qty": 0
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "rating": 5,
       "reviews": "1340",
       "description": "100% pure drink made with 0% preservatives. Please give a try to enhance your health. With 6 months of expiry date. 100% pure drink with 0% additives.",
-      "color": "#DFD7BF"
+      "color": "#DFD7BF",
+      "qty": 0
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "rating": 5,
       "reviews": "11020",
       "description": "100% pure drink made with 0% preservatives. Please give a try to enhance your health. With 6 months of expiry date. 100% pure drink with 0% additives.",
-      "color": "#FFBDF7"
+      "color": "#FFBDF7",
+      "qty": 0
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "rating": 3,
       "reviews": "1235",
       "description": "100% pure drink made with 0% preservatives. Please give a try to enhance your health. With 6 months of expiry date. 100% pure drink with 0% additives.",
-      "color": "#F8E8EE"
+      "color": "#F8E8EE",
+      "qty": 0
     }
   ]
 }

@@ -8,7 +8,8 @@
       "rating": 4,
       "reviews": "134030",
       "description": "Cotton dress made up of pure 100% cotton fibre. Stretchable as well as easy to wear. Washable and dirt resistant. Pure cotton dress.",
-      "color": "#FFE79B"
+      "color": "#FFE79B",
+      "qty": 0
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "rating": 3,
       "reviews": "94030",
       "description": "Cotton dress made up of pure 100% cotton fibre. Stretchable as well as easy to wear. Washable and dirt resistant. Pure cotton dress.",
-      "color": "#F1D4E5"
+      "color": "#F1D4E5",
+      "qty": 0
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "rating": 5,
       "reviews": "234030",
       "description": "Cotton dress made up of pure 100% cotton fibre. Stretchable as well as easy to wear. Washable and dirt resistant. Pure cotton dress.",
-      "color": "#FDCEDF"
+      "color": "#FDCEDF",
+      "qty": 0
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "rating": 5,
       "reviews": "4010",
       "description": "Cotton dress made up of pure 100% cotton fibre. Stretchable as well as easy to wear. Washable and dirt resistant. Pure cotton dress.",
-      "color": "#CEDEBD"
+      "color": "#CEDEBD",
+      "qty": 0
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "rating": 4,
       "reviews": "94000",
       "description": "Cotton dress made up of pure 100% cotton fibre. Stretchable as well as easy to wear. Washable and dirt resistant. Pure cotton dress.",
-      "color": "#D5FFD0"
+      "color": "#D5FFD0",
+      "qty": 0
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "rating": 4,
       "reviews": "134030",
       "description": "Cotton dress made up of pure 100% cotton fibre. Stretchable as well as easy to wear. Washable and dirt resistant. Pure cotton dress.",
-      "color": "#DFCCFB"
+      "color": "#DFCCFB",
+      "qty": 0
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "rating": 4,
       "reviews": "12030",
       "description": "Cotton dress made up of pure 100% cotton fibre. Stretchable as well as easy to wear. Washable and dirt resistant. Pure cotton dress.",
-      "color": "#EADBC8"
+      "color": "#EADBC8",
+      "qty": 0
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "rating": 5,
       "reviews": "1340",
       "description": "Cotton dress made up of pure 100% cotton fibre. Stretchable as well as easy to wear. Washable and dirt resistant. Pure cotton dress.",
-      "color": "#EADBC8"
+      "color": "#EADBC8",
+      "qty": 0
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "rating": 5,
       "reviews": "11020",
       "description": "Cotton dress made up of pure 100% cotton fibre. Stretchable as well as easy to wear. Washable and dirt resistant. Pure cotton dress.",
-      "color": "#DFCCFB"
+      "color": "#DFCCFB",
+      "qty": 0
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "rating": 3,
       "reviews": "1235",
       "description": "Cotton dress made up of pure 100% cotton fibre. Stretchable as well as easy to wear. Washable and dirt resistant. Pure cotton dress.",
-      "color": "#FFC6AC"
+      "color": "#FFC6AC",
+      "qty": 0
     }
   ]
 }
